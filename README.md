@@ -1,2 +1,2 @@
-# JenkinsTest Test
+# JenkinsTest Example
 Repository for testing jenkins
